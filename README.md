@@ -7,7 +7,7 @@ de Sistemas. Busco adquirir conhecimentos em Desenvolvimento Web. <br /><br />
 )](https://www.instagram.com/hugoreis_s/)<br /><br />
 ![Hesousa GitHub
 stats](https://github-readme-stats.vercel.app/api?username=hesousa&show_icons=true&theme=dark)
-## Tecnologias que estou aprendendo
+## Tecnologias que estou estudando
 
 <div style="display: inline_block">
   <br />
