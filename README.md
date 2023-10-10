@@ -4,7 +4,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Analise e desenvolvimento
 de Sistemas. Busco adquirir conhecimentos e me desenvolver profissionalmente. <br /><br />
 [![(Blog)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-sousa-91204a174/)
 [![(Blog)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/hugoreis_s/)<br /><br />
+)](https://www.instagram.com/hesousa___/)<br /><br />
 ![Hesousa GitHub
 stats](https://github-readme-stats.vercel.app/api?username=hesousa&show_icons=true&theme=dark)
 ## Tecnologias que estou estudando
